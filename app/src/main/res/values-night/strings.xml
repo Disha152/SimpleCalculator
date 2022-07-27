@@ -1,12 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SimpleCalculator</string>
     <string name="enter_second_number">Enter Second Number</string>
     <string name="todo">TODO</string>
     <string name="enter_first_number">Enter First Number</string>
     <string name="divide">/</string>
-    <string name="add">+</string>
-    <string name="multiply">*</string>
     <string name="subtract">-</string>
-    <string name="all_rights_reserved">All Rights Reserved</string>
     <string name="allrightsreserved">All Rights Reserved</string>
 </resources>

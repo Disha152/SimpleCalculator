@@ -19,7 +19,8 @@
         android:layout_marginTop="201dp"
         android:layout_marginEnd="130dp"
         android:layout_marginBottom="434dp"
-        app:srcCompat="@drawable/calculator" />
+        app:srcCompat="@drawable/calculator"
+        tools:ignore="ContentDescription,ImageContrastCheck" />
 
     <TextView
         android:id="@+id/textView"
@@ -29,10 +30,10 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="150dp"
-        android:layout_marginTop="660dp"
-        android:layout_marginEnd="72dp"
-        android:layout_marginBottom="4dp"
-        android:text="All Rights Reserved"
-        android:textColor="#D7FFFFFF" />
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="662dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/allrightsreserved"
+        android:textColor="#4E342E" />
 </RelativeLayout>
